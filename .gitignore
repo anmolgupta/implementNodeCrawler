@@ -1,0 +1,14 @@
+client/bower_components/
+client/app/dest/**/*
+client/app/dest/
+
+server/node_modules/
+server/files/pdf/
+server/files/tex/
+server/config.json
+
+node_modules
+server1/files/pdf/
+server1/files/tex/
+server1/config/config.json
+*.DS_Store
